@@ -1,0 +1,1 @@
+curl -X POST "http://0.0.0.0:8000/api" -F "file=@question1.txt"
